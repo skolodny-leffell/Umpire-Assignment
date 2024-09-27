@@ -4,7 +4,7 @@ This is a codebase filled with some examples of how to use multiple libraries to
 
 ## Installation
 
-Make sure the package manager [pip](https://pip.pypa.io/en/stable/) is installed.
+Make sure the package manager [pip](https://pip.pypa.io/en/stable/) is installed. Once it is, run the command below:
 
 ```bash
 pip install -r ./requirements.txt
